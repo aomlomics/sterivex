@@ -1,0 +1,32 @@
+sample_name	Day	Extraction	Temp	Salinity	DNA_conc	Replicate
+B_16S_A	May	Small beads	28	38	5.48	A
+B_16S_B	May	Small beads	28	38	7.24	B
+B_16S_C	May	Small beads	28	38	2.59	C
+Y_16S_A	May	Large beads	28	38	4.68	A
+Y_16S_B	May	Large beads	28	38	7.16	B
+Y_16S_C	May	Large beads	28	38	6.32	C
+BY_16S_A	May	Both beads	28	38	6.04	A
+BY_16S_B	May	Both beads	28	38	4.88	B
+BY_16S_C	May	Both beads	28	38	7.92	C
+Zymo1_16S_A	May	Zymo	28	38	4.12	A
+Zymo1_16S_B	May	Zymo	28	38	4.6	B
+Zymo1_16S_C	May	Zymo	28	38	3.75	C
+NB_16S_A	May	No beads	28	38	5.32	A
+NB_16S_B	May	No beads	28	38	7.64	B
+NB_16S_C	May	No beads	28	38	4.84	C
+NM_16S_A	August	NucleoMag	30.4	32	4.3	A
+NM_16S_B	August	NucleoMag	30.4	32	7.19	B
+NM_16S_C	August	NucleoMag	30.4	32	9.95	C
+Zymo_NB_16S_A	August	No beads	30.4	32	4.95	A
+Zymo_NB_16S_B	August	No beads	30.4	32	2.4	B
+Zymo_NB_16S_C	August	No beads	30.4	32	3.37	C
+Zymo2_16S_A	August	Zymo	30.4	32	5.08	A
+Zymo2_16S_B	August	Zymo	30.4	32	6.22	B
+Zymo2_16S_C	August	Zymo	30.4	32	4.23	C
+MQ1_16S_B	August	MilliQ	28	38	1.02	B
+MQ1_16S_C	August	MilliQ	28	38	0.94	C
+MQ2_16S_A	August	MilliQ	30.4	32	0.12	A
+MQ2_16S_C	August	MilliQ	30.4	32	0.18	C
+Mock_16S_A	Control	Bacteria mock	30.4	32	NA	B
+Mock_16S_B	Control	Bacteria mock	30.4	32	NA	NA
+NTC_16S	Control	Negative control	30.4	32	NA	NA
